@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\bin\Debug\net8.0\Izpitvane27.03.exe
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\bin\Debug\net8.0\Izpitvane27.03.deps.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\bin\Debug\net8.0\Izpitvane27.03.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\bin\Debug\net8.0\Izpitvane27.03.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\bin\Debug\net8.0\Izpitvane27.03.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\Izpitvane27.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\Izpitvane27.03.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\Izpitvane27.03.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\Izpitvane27.03.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\Izpitvane27.03.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\refint\Izpitvane27.03.dll
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\Izpitvane27.03.pdb
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\Izpitvane27.03.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Pictures\Camera Roll\hristomir9a\Izpitvane27.03\Izpitvane27.03\obj\Debug\net8.0\ref\Izpitvane27.03.dll

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Izpitvane27.03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEAB245-A8C4-4402-BF8E-80B32236DF98}|Izpitvane27.03\\Izpitvane27.03.csproj|c:\\users\\students-1212-2\\pictures\\camera roll\\hristomir9a\\izpitvane27.03\\izpitvane27.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEAB245-A8C4-4402-BF8E-80B32236DF98}|Izpitvane27.03\\Izpitvane27.03.csproj|solutionrelative:izpitvane27.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 213,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Izpitvane27.03\\Izpitvane27.03\\Program.cs",
+              "RelativeDocumentMoniker": "Izpitvane27.03\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Pictures\\Camera Roll\\hristomir9a\\Izpitvane27.03\\Izpitvane27.03\\Program.cs",
+              "RelativeToolTip": "Izpitvane27.03\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:10:47.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
